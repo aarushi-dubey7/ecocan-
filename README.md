@@ -1,5 +1,7 @@
 ## Context
 This project was made to be integrated with an engineering project of mine called EcoCan. The goal for this project was to reduce mislabeled trash waste (that ends up being harmful to the enviroment) by automating how trash is organized. I created a prototype of this idea by using webcam, and cardboard. The overall design is the same as a trash bucket. The code in this repo is for the web cam programming part. 
+
+
 Here is how the project looked:
 
 ![EcoCan project prototype](readme-projimage/ecocanproject-fair.png)
